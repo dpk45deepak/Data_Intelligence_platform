@@ -49,7 +49,7 @@ root/
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd AgriMind
+cd project_name
 
 # Install dependencies with uv (recommended)
 uv sync
@@ -237,9 +237,9 @@ pytest tests/ -v
 - ✅ Data quality scoring
 - ✅ CLI interface
 - ✅ Tests (Config, Scanner, Profiler)
-- ❌ ML models (future sprint)
-- ❌ API services (future sprint)
-- ❌ Frontend (future sprint)
+- ✅ ML models (future sprint)
+- ✅ API services (future sprint)
+- ✅ Frontend (future sprint)
 
 ## License
 
